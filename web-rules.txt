@@ -1,0 +1,205 @@
+!-------------------Remarks----------------------
+
+Edit：txt
+Author：honeyuee
+Version：1.0
+Date：20221006
+
+!-------------------Remarks---------------------
+
+!------------universial------------
+/trackad.$third-party
+.cn/ads/
+/w.gif?
+
+
+
+!------------github------------
+@@||api.github.com^
+@@||collector.github.com^
+@@||github.githubassets.com^
+@@||raw.githubusercontent.com^
+@@||collector.github.com/github/collect$domain=github.com
+@@||github-production-upload-manifest-file-7fdce7.s3.amazonaws.com^$domain=github.com
+@@||github.githubassets.com/assets/$domain=github.com
+@@||github.com/honeyuee/
+@@||api.github.com/_private/browser/$domain=github.com,important
+@@||objects-origin.githubusercontent.com^$domain=github.com
+
+
+!------------zhihu------------
+||zz.bdstatic.com/linksubmit^
+||unpkg.zhimg.com^
+||static.zhihu.com/heifetz/^
+zhihu.com###root > div:first-child > main.App-main:nth-child(3) > div > div.SignFlowHomepage > footer.SignFlowHomepage-footer:last-child > div.css-1xaekgw:last-child
+zhuanlan.zhihu.com##div:last-child > div > div.css-1ynzxqw > div.css-1izy64v
+##div:last-child > div > div.css-1ynzxqw > div.css-1izy64v
+##.css-1l12z7y.ColumnPageHeader.Sticky
+##.css-1x8hcdw.AppHeader.Sticky
+##.Question-mainColumnLogin
+
+!------------csdn------------
+||kunpeng-sc.csdnimg.cn^
+||kunyu.csdn.net^
+||event.csdn.net^
+||csdnimg.cn^*#/preview/
+##.blog-ad
+
+
+
+!------------baidu------------
+||hm.baidu.com^
+||bdstatic.com^*/tam-ogel/
+.com/v.gif?
+||ecmb.bdimg.com^
+||hector.baidu.com/static/h.gif?
+ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com#?#div[id$="_canvas"]
+ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##div[id$="_canvas"]
+ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_right > table > tbody > tr > td > div:not(#con-ar):not([class])
+ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##div:not([id]) > style[id^="s-"] + div[id]
+##.ad-widget
+ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##div[id$="_canvas"]
+ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_right > table > tbody > tr > td > div:not(#con-ar):not([class])
+||bdstatic.com^*/plugins/every_cookie_
+/w.gif?
+/advert-$domain=~advert-ai-landing.firebaseapp.com|~advert-ai-landing.web.app|~advert-ai.com|~advert-solutions.com|~advert-technology.com|~advert-technology.ru
+||bdstatic.com^*/plugins/every_cookie_
+tieba.baidu.com##ul.tbui_aside_float_bar:nth-child(62)
+tieba.baidu.com##.tbui_aside_float_bar
+##ul.tbui_aside_float_bar:nth-child(62)
+1111.baidu.com,bdimg.com,live.baidu.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pagelet_search\/pagelet\/search_ad
+baidu.com,bdimg.com###aside-ad
+||baidu.com/*/track.gif?$image,redirect=1x1-transparent.gif
+/alog.min.js
+||dlswbr.baidu.com/heicha/mw/abclite-*.js
+||sofire.bdstatic.com^
+||ecma.bdimg.com^
+||baidu.com/api/bidder/
+baidu.com##.ecom_pingzhuan
+||eduad.baidu.com^
+||wkctj.baidu.com^
+||baidu.com/ndwkasp/
+wenku.baidu.com###app-right
+wenku.baidu.com##.no-full-screen
+wenku.baidu.com##.fold-page-content
+##.ad-wrap
+##.share-btn
+~indiegogo.com##.share-icon
+wenku.baidu.com###app-reader-editor-below > div.try-end-fold-page.has-cashier-card:first-child > div.fold-page-content:first-child > div.pc-cashier-card.theme-1.size-large.multi-size:last-child > div.card-head:first-child
+map.baidu.com###message-center-panel > img.message-center-img:first-child
+map.baidu.com##.message-center-img
+https://map-mobile-resource.cdn.bcebos.com/icon/service/pc-station/default/PCbeidou.png$domain=map.baidu.com
+###message-center-panel > img.message-center-img:first-child
+map.baidu.com###message-center-panel
+map.baidu.com###MapHolder > div.BMap_cpyCtrl.BMap_noprint.anchorBL:nth-child(4) > span
+map.baidu.com###card-1
+map.baidu.com##.card, .animated-card
+
+
+
+
+!------------google------------
+||googletagservices.com/tag/js/gpt.js$xmlhttprequest,script,redirect=googletagservices-gpt
+||googletagmanager.com/gtag/$third-party
+
+
+
+
+!------------cnblog------------
+||cnblogs.com/units/
+cnblogs.com##.bannerbar
+cnblogs.com##.sidebar-image
+##div[id^="div-gpt-"]
+
+
+
+!------------weibo------------
+||weibo.com/ajax/log/
+||dns.weibo.cn^
+||ad.us.sinaimg.cn^
+||ad.weibo.cn^
+
+
+!------------imooc-----------
+@@||sensordata.open.com.cn/sa.gif$domain=imooc.com
+@@||eclick.baidu.com^$domain=imooc.com
+@@||hm.baidu.com/hm.^$domain=imooc.com
+@@||cpro.baidu.com/cpro/ui/rt.js$domain=imooc.com
+
+
+
+!------------yandex-----------
+~passport.yandex.ru,~zen.yandex.ru,dzen.ru,yandex.md,yandex.by,yandex.com,yandex.com.tr,yandex.fr,yandex.kz,yandex.ru#%#//scriptlet('remove-cookie', '/blcrm|bltsr|jsOmqPGh|XcfPaDInQpzKj|computer/')
+||yandex.*/clck/
+||mc.yandex.ru/metrika/watch.js$script,redirect=metrika-yandex-watch
+||mc.yandex.ru^
+||yandex.*/count/
+
+
+
+!------------zaih-----------
+zaih.com###__layout > section.page-wrapper > div.main-wrapper:first-child > div.main:last-child > div.main > section.kefu-btn:last-child
+https://ff-static.zaih.cn/falcon-web/img/d68c6a8.gif$domain=zaih.com
+zaih.com###__layout > section.page-wrapper > div.main-wrapper:first-child > div.main:last-child > div.main > div.qrcode-fixed:nth-child(3) > div.qrcode-layer > img:nth-child(2)
+https://ff-static.zaih.cn/falcon-web/img/f929d7a.png$domain=zaih.com
+zaih.com###__layout > section.page-wrapper > div.main-wrapper:first-child > div.main:last-child > div.main > div.qrcode-fixed:nth-child(3) > div.qrcode-layer > p:last-child
+zaih.com###__layout > section.page-wrapper > div.main-wrapper:first-child > div.main:last-child > div.main > div.index-mentors-wrapper:first-child > div.index-mentors:first-child > a:nth-child(5) > div.album-item
+###__layout > section.page-wrapper > div.main-wrapper:first-child > div.main:last-child > div.main > div.index-mentors-wrapper:first-child > div.index-mentors:first-child > a:nth-child(5) > div.album-item
+zaih.com###__layout > section.page-wrapper > footer.footer:last-child > div.top:first-child
+###__layout > section.page-wrapper > footer.footer:last-child > div.top:first-child
+zaih.com###__layout > section.page-wrapper > footer.footer:last-child > div.bottom:last-child
+###__layout > section.page-wrapper > footer.footer:last-child > div.bottom:last-child
+
+!------------sougou-----------
+/pv.gif?
+||aegis.qq.com^
+||ad.sougou.^
+||sogou.com/cl.gif?
+
+
+!------------360-----------
+||s.360.cn^
+||so.com/baike/ads?
+||papi.look.360.cn^
+||lianmeng.360.cn^$domain=~lianmeng.360.cn
+||s.qhupdate.com^
+||mediav.com^$third-party,domain=~dev.360.cn|~g.360.cn
+##.ad-txt
+##.ad-text
+###shareBox
+||mediav.com^$3p
+||so.com/sug-hot?
+||so.com/^/ads?
+baike.so.com##div.new-nav:nth-child(4) > div.nav-bg > div.nav-bg-top
+baike.so.com##div.new-nav:nth-child(4) > div.nav-bg
+baike.so.com###main > div.entry-plus.wrap:last-child
+||papi.look.360.cn^
+.com/_.gif?
+so.com###js-mh-news-sdk-sad
+so.com##.e-buss
+so.com##.spread
+so.com##.res-mediav
+~indiegogo.com##.share-icon
+##.share-tools
+360kuai.com###flow-container
+360kuai.com##.flow-container, .flow-container--small
+so.com###so-pdr-guide
+so.com##.so-pdr
+so.com##.so-top
+
+
+
+
+!------------youdao-----------
+||youdao.com/rlog.php
+##.adv-box
+youdao.com###searchLayout > div.search_page > div.user-feed_back:last-child > div.feedback > div.feedbackBtn
+###searchLayout > div.search_page > div.user-feed_back:last-child > div.feedback > div.feedbackBtn
+youdao.com##.feedbackBtn
+ke.youdao.com###app > div > div._1BGUJ:nth-child(4) > div:last-child > div._1FYiZ:last-child > a:first-child > img
+https://oimageb5.ydstatic.com/image?id=8479923815800020223&product=xue$domain=ke.youdao.com
+###app > div > div._1BGUJ:nth-child(4) > div:last-child > div._1FYiZ:last-child > a:first-child > img
+ke.youdao.com###app > div > div._3UE4T:nth-child(5)
+ke.youdao.com##._3UE4T
+###app > div > div._3UE4T:nth-child(5)
+/?sentry_key=
