@@ -142,10 +142,6 @@
 ! Sina Weibo
 ||*beacon.sina.com.cn
 
-! Xiaomi
-||stat.xiaomi.com^
-||*.xiaomi.cn/*/statistics*
-
 ! Huawei
 ||dap.vmall.com^
 ||data.hicloud.com^
@@ -222,9 +218,13 @@ Footer
 © 2022 GitHub, Inc.
 Footer navigation
 
-# Xiaomi
+! Xiaomi
 @@||api.miwifi.com^
 @@||s.miwifi.com^
+||stat.xiaomi.com^
+||*.xiaomi.cn/*/statistics*
+@@||account.xiaomi.com^
+@@||192.168.31.1^
 
 # Skyworth
 # https://www.v2ex.com/t/772523
