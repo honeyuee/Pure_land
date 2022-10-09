@@ -223,7 +223,7 @@ Footer
 Footer navigation
 
 # Xiaomi
-||api.miwifi.com^
+@@||api.miwifi.com^
 @@||s.miwifi.com^
 
 # Skyworth
