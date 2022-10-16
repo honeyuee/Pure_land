@@ -1,5 +1,5 @@
-﻿！Edit：txt
-！Date：20221006
+！Edit：txt
+！Date：20221016
 ！Author：honeyuee
 
 ! Alibaba
@@ -44,26 +44,27 @@
 ||*.baidupcs.com/monitor.jpg
 ||cbjs.baidustatic.com^
 ||baidubce.com^
-@@||pcs.baidu.com^
-@@||map.baidu.com^
-@@||captcha.su.baidu.com
-@@||gsp0.baidu.com
-@@||imgsa.baidu.com
-@@||pan.baidu.com
-@@||diskapi.baidu.com
-@@||passport.baidu.com
-@@||tieba.baidu.com
-@@||tiebapic.baidu.com
-@@||wappass.baidu.com
-@@||zhidao.baidu.com
+@@||pcs.baidu.com/^
+@@||map.baidu.com/^
+@@||captcha.su.baidu.com/^
+@@||gsp0.baidu.com/^
+@@||imgsa.baidu.com/^
+@@||pan.baidu.com/^
+@@||diskapi.baidu.com/^
+@@||passport.baidu.com/^
+@@||tieba.baidu.com/^
+@@||tiebapic.baidu.com/^
+@@||wappass.baidu.com/^
+@@||zhidao.baidu.com/^
+@@||gisp*.baidu.com/^
 
 ! Bilibili
 ||*.hdslb.com/bfs/seed/log/
 ||cm.bilibili.com^
 ||data.bilibili.com^
-||bilibili.com##.mascot
-||live.bilibili.com##.web-player-inject-wrap
-||live.bilibili.com###my-dear-haruna-vm
+bilibili.com##.mascot
+live.bilibili.com##.web-player-inject-wrap
+live.bilibili.com###my-dear-haruna-vm
 
 ! Bilibili P2P
 ||stun-*.chat.bilibili.com
@@ -129,7 +130,7 @@
 ||qhstatic.com^
 ||qhupdate.com^
 ||qihoo.com^
-||so.com^
+@@||so.com/s?q=^
 
 ! JD
 ||cm.jd.com
@@ -141,6 +142,10 @@
 
 ! Sina Weibo
 ||*beacon.sina.com.cn
+
+! Xiaomi
+||stat.xiaomi.com^
+||*.xiaomi.cn/*/statistics*
 
 ! Huawei
 ||dap.vmall.com^
@@ -218,13 +223,9 @@ Footer
 © 2022 GitHub, Inc.
 Footer navigation
 
-! Xiaomi
-@@||api.miwifi.com^
+# Xiaomi
+@@api.miwifi.com^
 @@||s.miwifi.com^
-||stat.xiaomi.com^
-||*.xiaomi.cn/*/statistics*
-@@||account.xiaomi.com^
-@@||192.168.31.1^
 
 # Skyworth
 # https://www.v2ex.com/t/772523
