@@ -14,3 +14,4 @@ Date:20221018
 
 ## Delect the file Platform-rules-of-pure-land.txt
 ## Rename the file web-rules.txt to pure-land.txt
+[pure-land.txt](https://github.com/honeyuee/Pure_land/files/9811993/pure-land.txt)
