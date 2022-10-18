@@ -1,20 +1,67 @@
 !-------------------Remarks----------------------
 
-Edit：txt
+Edit：pure-land.txt
 Author：honeyuee
-Version：1.0
-Date：20221006
+Version：1.02
+Date：20221018
 
 !-------------------Remarks---------------------
 
-!------------universial------------
-/trackad.$third-party
-.cn/ads/
-/w.gif?
+
+!-------------------Contents---------------------
+
+
+!1、----------------------universial---------------
+!2、----------------------github------------------
+!3、----------------------zhihu-------------------
+!4、----------------------csdn--------------------
+!5、----------------------baidu-------------------
+!6、----------------------google------------------
+!7、----------------------cnblog------------------
+!8、----------------------weibo-------------------
+!9、----------------------imooc-------------------
+!10 、--------------------yandex------------------
+!11 、--------------------zaih----------------------
+!12 、--------------------sougou------------------
+!13 、--------------------360----------------------
+!14 、--------------------youdao------------------
+!15、--------------------xiaomi--------------------
+!16、--------------------Alibaba-------------------
+!17、--------------------bilibili---------------------
+!18、--------------------Microsoft-----------------
+!19、--------------------Windows-----------------
+!20、--------------------toutiao-------------------
+!21、--------------------Acfun---------------------
+!22、--------------------2345----------------------
+!23、--------------------JD-------------- ----------
+!24、--------------------Pdd-----------------------
+!25、--------------------Sina-----------------------
+!26、--------------------Tencent---------- --------
+!27、-------------------  Huawei-------------------
+!28、---------------------Douyu--------------------
+!29、---------------------Youku--------------------
+!30、---------------------Aqiyi---------------------
+
+
+!-------------------Contents---------------------
 
 
 
-!------------github------------
+
+
+!1、-----------------------universial---------------
+
+
+||*/t!rackad.$third-party
+||*.cn!/ads/
+||*/w.g!if?
+||*/beacon.js
+||*/pv.gif
+
+
+!2、-----------------------github------------------
+
+
 @@||api.github.com^
 @@||collector.github.com^
 @@||github.githubassets.com^
@@ -27,7 +74,9 @@ Date：20221006
 @@||objects-origin.githubusercontent.com^$domain=github.com
 
 
-!------------zhihu------------
+!3、-----------------------zhihu-------------------
+
+
 ||zz.bdstatic.com/linksubmit^
 ||unpkg.zhimg.com^
 ||static.zhihu.com/heifetz/^
@@ -37,8 +86,14 @@ zhuanlan.zhihu.com##div:last-child > div > div.css-1ynzxqw > div.css-1izy64v
 ##.css-1l12z7y.ColumnPageHeader.Sticky
 ##.css-1x8hcdw.AppHeader.Sticky
 ##.Question-mainColumnLogin
+||*analytics.zhihu.com
+||sugar.zhihu.com
+||unpkg.zhimg.com/*sentry*
 
-!------------csdn------------
+
+!4、-----------------------csdn--------------------
+
+
 ||kunpeng-sc.csdnimg.cn^
 ||kunyu.csdn.net^
 ||event.csdn.net^
@@ -47,7 +102,25 @@ zhuanlan.zhihu.com##div:last-child > div > div.css-1ynzxqw > div.css-1izy64v
 
 
 
-!------------baidu------------
+!5、-----------------------baidu-------------------
+
+
+||*.baidupcs.com/monitor.jpg
+||cbjs.baidustatic.com^
+||baidubce.com^
+@@||pcs.baidu.com/^
+@@||map.baidu.com/^
+@@||captcha.su.baidu.com/^
+@@||gsp0.baidu.com/^
+@@||imgsa.baidu.com/^
+@@||pan.baidu.com/^
+@@||diskapi.baidu.com/^
+@@||passport.baidu.com/^
+@@||tieba.baidu.com/^
+@@||tiebapic.baidu.com/^
+@@||wappass.baidu.com/^
+@@||zhidao.baidu.com/^
+@@||gisp*.baidu.com/^
 ||hm.baidu.com^
 ||bdstatic.com^*/tam-ogel/
 .com/v.gif?
@@ -96,39 +169,51 @@ map.baidu.com###card-1
 map.baidu.com##.card, .animated-card
 
 
+!6、-----------------------google------------------
 
 
-!------------google------------
 ||googletagservices.com/tag/js/gpt.js$xmlhttprequest,script,redirect=googletagservices-gpt
 ||googletagmanager.com/gtag/$third-party
+||doubleclick.net^
+||googleadservices.cn^
+||googleadservices.com^
+||googlesyndication.com^
+||googletagmanager.com^
+||googletagservices.com^
+||mobileads.google.com^
+||ads.youtube.com
 
 
+!7、-----------------------cnblog------------------
 
 
-!------------cnblog------------
 ||cnblogs.com/units/
 cnblogs.com##.bannerbar
 cnblogs.com##.sidebar-image
 ##div[id^="div-gpt-"]
 
 
+!8、-----------------------weibo-------------------
 
-!------------weibo------------
+
 ||weibo.com/ajax/log/
 ||dns.weibo.cn^
 ||ad.us.sinaimg.cn^
 ||ad.weibo.cn^
 
 
-!------------imooc-----------
+!9、-----------------------imooc-------------------
+
+
 @@||sensordata.open.com.cn/sa.gif$domain=imooc.com
 @@||eclick.baidu.com^$domain=imooc.com
 @@||hm.baidu.com/hm.^$domain=imooc.com
 @@||cpro.baidu.com/cpro/ui/rt.js$domain=imooc.com
 
 
+!10 、--------------------yandex-------------------
 
-!------------yandex-----------
+
 ~passport.yandex.ru,~zen.yandex.ru,dzen.ru,yandex.md,yandex.by,yandex.com,yandex.com.tr,yandex.fr,yandex.kz,yandex.ru#%#//scriptlet('remove-cookie', '/blcrm|bltsr|jsOmqPGh|XcfPaDInQpzKj|computer/')
 ||yandex.*/clck/
 ||mc.yandex.ru/metrika/watch.js$script,redirect=metrika-yandex-watch
@@ -136,8 +221,9 @@ cnblogs.com##.sidebar-image
 ||yandex.*/count/
 
 
+!11 、----------------------zaih---------------------
 
-!------------zaih-----------
+
 zaih.com###__layout > section.page-wrapper > div.main-wrapper:first-child > div.main:last-child > div.main > section.kefu-btn:last-child
 https://ff-static.zaih.cn/falcon-web/img/d68c6a8.gif$domain=zaih.com
 zaih.com###__layout > section.page-wrapper > div.main-wrapper:first-child > div.main:last-child > div.main > div.qrcode-fixed:nth-child(3) > div.qrcode-layer > img:nth-child(2)
@@ -150,14 +236,19 @@ zaih.com###__layout > section.page-wrapper > footer.footer:last-child > div.top:
 zaih.com###__layout > section.page-wrapper > footer.footer:last-child > div.bottom:last-child
 ###__layout > section.page-wrapper > footer.footer:last-child > div.bottom:last-child
 
-!------------sougou-----------
+
+!12 、--------------------sougou-------------------
+
+
 /pv.gif?
 ||aegis.qq.com^
 ||ad.sougou.^
 ||sogou.com/cl.gif?
 
 
-!------------360-----------
+!13 、----------------------360---------------------
+
+
 ||s.360.cn^
 ||so.com/baike/ads?
 ||papi.look.360.cn^
@@ -186,11 +277,21 @@ so.com##.res-mediav
 so.com###so-pdr-guide
 so.com##.so-pdr
 so.com##.so-top
+@@||gw.shouji.360.cn^
+||360.cn^
+||360safe.com^
+||360totalsecurity.com^
+||appjiagu.com^
+||qhimg.com^
+||qhstatic.com^
+||qhupdate.com^
+||qihoo.com^
+@@||so.com/s?q=^
 
 
+!14 、--------------------youdao-------------------
 
 
-!------------youdao-----------
 ||youdao.com/rlog.php
 ##.adv-box
 youdao.com###searchLayout > div.search_page > div.user-feed_back:last-child > div.feedback > div.feedbackBtn
@@ -203,3 +304,243 @@ ke.youdao.com###app > div > div._3UE4T:nth-child(5)
 ke.youdao.com##._3UE4T
 ###app > div > div._3UE4T:nth-child(5)
 /?sentry_key=
+
+
+!15、---------------------xiaomi--------------------
+
+
+||stat.xiaomi.com^
+||*.xiaomi.cn/*/statistics*
+@@api.miwifi.com^
+@@||s.miwifi.com^
+
+
+!16、--------------------Alibaba--------------------
+
+
+@@||tbskip.taobao.com^
+@@||waimai-guide.ele.me^
+@@||wagbridge.alibaba.tanx.com^
+@@||alibaba-work.tanx.com^
+||*.alicdn.com/*sentry*
+||*.taobao.com/*aplus*.js
+||alimama.cn^
+||alimama.com^
+||cnzz.com^
+||effirst.com^
+||log.aliyuncs.com^
+||mmstat.com^
+||simba.taobao.com^
+||tanx.com^
+||umeng.com^
+||umengcloud.com^
+||whalecloud.com^
+||zampdsp.com^
+||acjs.aliyun.com
+||aeis.alicdn.com
+||arms-retcode.aliyuncs.com
+||assets.alicdn.com/g/alilog*
+||g.alicdn.com/alilog/mlog/*
+||g.alicdn.com/axdata/yunlog*
+||g.alicdn.com/dawn/user-tracker*
+||g.alicdn.com/sj/securesdk
+||kcart.alipay.com
+||logs.amap.com
+||mdap.alipay.com
+||portal.manjushri.alibaba.com
+||retcode.alicdn.com
+||retcode.taobao.com
+||tracert.alipay.com
+||ur.alipay.com
+||yunf.aliapp.org
+||ynuf.alipay.com
+
+
+!17、----------------------bilibili--------------------
+
+
+||*.hdslb.com/bfs/seed/log/
+||cm.bilibili.com^
+||data.bilibili.com^
+bilibili.com##.mascot
+live.bilibili.com##.web-player-inject-wrap
+live.bilibili.com###my-dear-haruna-vm
+||stun-*.chat.bilibili.com
+||*-live-p2p-*.chat.bilibili.com
+||*web-player-tracker.biliapi.net
+
+
+!18、--------------------Microsoft------------------
+
+
+||ntp.msn.cn
+||*ads*.msn.com
+||*telemetry*.microsoft.com
+||bingads.microsoft.com^
+||data.microsoft.com^
+||msads.net^
+||telemetry.microsoft.com^
+||oca.telemetry.microsoft.com
+||oca.microsoft.com
+||kmwatsonc.telemetry.microsoft.com
+||*-kmwatsonc.telemetry.microsoft.com
+
+
+!19、--------------------Windows-------------------
+
+
+||watson.telemetry.microsoft.com
+||watson.microsoft.com
+||umwatsonc.telemetry.microsoft.com
+||umwatsonc.events.data.microsoft.com
+||*-umwatsonc.events.data.microsoft.com
+||ceuswatcab01.blob.core.windows.net
+||ceuswatcab02.blob.core.windows.net
+||eaus2watcab01.blob.core.windows.net
+||eaus2watcab02.blob.core.windows.net
+||weus2watcab01.blob.core.windows.net
+||weus2watcab02.blob.core.windows.net
+
+
+!20、--------------------toutiao---------------------
+
+
+
+
+
+!21、---------------------Acfun----------------------
+
+
+||acfun.cn###pagelet_rightrecommend
+||log-sdk.gifshow.com^
+
+
+!22、-----------------------2345---------------------
+
+
+||2345.com^
+||50bang.org^
+
+
+!23、-----------------------JD-------------- ---------
+
+
+||cm.jd.com
+
+
+!24、-----------------------PDD----------------------
+
+
+
+
+
+!25、----------------------Sina-----------------------
+
+
+||*beacon.sina.com.cn
+
+
+!26、---------------------Tencent---------- ---------
+
+
+@@||captcha.qq.com^
+||gdt.qq.com^
+||imtt.qq.com^
+||huatuo.qq.com^
+||btrace.qq.com
+||cloud.tencent.com/act/common/report
+||huatuo*.weiyun.com
+||mp.weixin.qq.com/mp/*report
+||pingfore.qq.com
+||safebrowsing.urlsec.qq.com
+||stat*.qq.com
+||tajs.qq.com
+||wspeed.qq.com
+||qvb.qcloud.com^
+~work.weixin.qq.com,qq.com#%#//scriptlet('json-prune', 'ad')
+||aegis.qq.com^
+||beacon.qq.com^
+||trace.qq.com^
+||qq.com/p?
+||qq.com/collect?
+||btrace.qq.com^
+||scorecardresearch.com^$third-party
+
+
+!27、-------------------Huawei-----------------------
+
+
+||dap.vmall.com^
+||data.hicloud.com^
+||dt.hicloud.com^
+||nebula-collector.huawei.com^
+
+
+!28、---------------------Douyu---------------------
+
+
+||stun.douyucdn.cn
+||douyucdn.cn*/report
+||sdkapi.douyucdn.cn^
+||p2perrorlog.douyucdn.cn^
+||114la.com^
+||365key.com^
+||51.la^
+||adnyg.com^
+||baifendian.com^
+||crazyegg.com^
+||demdex.net^
+||donews.com^
+||duomai.com^
+||growingio.com^
+||kuaizhan.com^
+||lapin365.com^
+||miaozhen.com^
+||omtrdc.net^
+||pv.com.cn^
+||scorecardresearch.com^
+||sensorsdata.cn^
+||stargame.com^
+||taboola.com.cn^
+||taboola.com^
+||tagtic.cn^
+||testin.cn^
+||tiqcdn.cn^
+||tiqcdn.com^
+||ugdtimg.com^
+||woopra.com^
+||xlingdi.com^
+||zampdsp.com^
+||zhugeio.com^
+||telemetry.coder.com
+
+
+!29、---------------------Youku--------------------
+
+
+||cn-vmc-images.alicdn.com^
+||pss.alicdn.com/iku/log^
+/amdc/mobileDispatch?appkey=
+||liangcang-material.alicdn.com^$app=com.youku.phone
+youku.com#%#//scriptlet("adjust-setTimeout", "r--", "", "0.02")
+||cnzz.com^$third-party
+||mmstat.com^$third-party
+||fourier.taobao.com^
+youku.com###uerCenter > div.u-login_PEt-Q:last-child > div.info-bottom_3C0mQ.show_C8p0e:last-child
+youku.com##.info-bottom_3C0mQ, .show_C8p0e
+
+
+!30、---------------------Aqiyi---------------------
+
+
+||msg.qy.net^
+iqiyi.com#%#//scriptlet("set-constant", "Object.prototype.parseXML", "noopFunc")
+iqiyi.com#%#//scriptlet("set-constant", "Object.prototype.blackscreenDuration", "1")
+$cookie=/.+/;maxAge=172800,third-party
+iqiyi.com##:not(.qy-index-page) > div[id^="100000"]
+###adDiv
+iqiyi.com##:not(.qy-index-page) > div[id^="100000"]
+
+
+!-------------------------That‘s All---------------------
+!-------------------------END--------------------------
