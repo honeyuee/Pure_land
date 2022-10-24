@@ -1,6 +1,6 @@
 !-------------------Remarks----------------------
 
-Edit：pure-land.txt
+Title：pure-land.txt
 Author：honeyuee
 Version：1.02
 Date：20221018
