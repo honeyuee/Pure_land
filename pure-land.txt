@@ -3,7 +3,7 @@
 Title：pure-land.txt
 Author：honeyuee
 Version：1.02
-Date：20221018
+Date：20230219
 
 !-------------------Remarks---------------------
 
@@ -41,7 +41,7 @@ Date：20221018
 !28、---------------------Douyu--------------------
 !29、---------------------Youku--------------------
 !30、---------------------Aqiyi---------------------
-
+!31、--------------------Tomato--------------------
 
 !-------------------Contents---------------------
 
@@ -540,6 +540,25 @@ $cookie=/.+/;maxAge=172800,third-party
 iqiyi.com##:not(.qy-index-page) > div[id^="100000"]
 ###adDiv
 iqiyi.com##:not(.qy-index-page) > div[id^="100000"]
+
+!31、--------------------Tomato--------------------
+
+
+||pangolin-sdk-toutiao.com^
+||zijieapi.com^$app=com.dragon.read
+||frontier-toutiao.snssdk.com^$app=com.dragon.read
+||pangolin-sdk-toutiao-b.com^
+||ads5-normal-lf.zijieapi.com^$app=com.dragon.read
+||pglstatp-toutiao.com^
+||market.wsskj*.cn^$app=com.dragon.read
+||i-lq.snssdk.com^$app=com.dragon.read
+||abtest*-misc-lq.zijieapi.com^$app=com.dragon.read
+||mssdk*-normal-lq.zijieapi.com^$app=com.dragon.read
+||is.snssdk.com^$app=com.dragon.read
+||tnc*-alisc*.zijieapi.com^$app=com.dragon.read
+||ib-lq.sns
+
+
 
 
 !-------------------------That‘s All---------------------
