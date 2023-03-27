@@ -1,9 +1,9 @@
 !-------------------Remarks----------------------
 
-!Title：pure-land.txt
-!Author：honeyuee
-!Version：1.02
-!Date：20230302
+!@Title：pure-land.txt
+!@Author：honeyuee
+!@Version：1.02
+!@Date：20230328
 
 !-------------------Remarks---------------------
 
