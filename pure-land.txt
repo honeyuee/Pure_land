@@ -454,7 +454,7 @@ live.bilibili.com###my-dear-haruna-vm
 ||btrace.qq.com
 ||cloud.tencent.com/act/common/report
 ||huatuo*.weiyun.com
-||mp.weixin.qq.com/mp/*report
+@@||mp.weixin.qq.com/mp/*report
 ||pingfore.qq.com
 ||safebrowsing.urlsec.qq.com
 ||stat*.qq.com
