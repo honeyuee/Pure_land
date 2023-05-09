@@ -1,9 +1,8 @@
 !-------------------Remarks----------------------
-
-!@Title：pure-land.txt
+! Title: pure-land.txt
 !@Author：honeyuee
-!@Version：1.02
-!@Date：20230328
+!@Version：1.0509
+!@Date：20230509
 
 !-------------------Remarks---------------------
 
@@ -341,7 +340,7 @@ ke.youdao.com##._3UE4T
 ||whalecloud.com^
 ||zampdsp.com^
 ||acjs.aliyun.com
-||aeis.alicdn.com
+@@||aeis.alicdn.com
 ||arms-retcode.aliyuncs.com
 ||assets.alicdn.com/g/alilog*
 ||g.alicdn.com/alilog/mlog/*
@@ -388,7 +387,7 @@ live.bilibili.com###my-dear-haruna-vm
 ||oca.microsoft.com
 ||kmwatsonc.telemetry.microsoft.com
 ||*-kmwatsonc.telemetry.microsoft.com
-
+@@||login.live.com^
 
 !19、--------------------Windows-------------------
 
