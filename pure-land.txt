@@ -857,5 +857,11 @@ iqiyi.com##:not(.qy-index-page) > div[id^="100000"]
 @@||px.effirst.com^$important
 @@||eco.taobao.com^$important
 
+127.0.0.1 adm.10jqka.com.cn
+127.0.0.1 recommend.10jqka.com.cn
+127.0.0.1 news.10jqka.com.cn
+127.0.0.1 mnews.hexin.cn
+127.0.0.1 m.0033.com
+
 !-------------------------That‘s All---------------------
 !-------------------------END--------------------------
