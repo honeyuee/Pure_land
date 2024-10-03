@@ -590,7 +590,13 @@ live.bilibili.com###my-dear-haruna-vm
 ||qq.com/collect?
 ||btrace.qq.com^
 ||scorecardresearch.com^$third-party
-
+||wxsmw.wxs.qq.com^
+||wximg.wxs.qq.com^
+||dns.weixin.qq.com^
+||mp.weixin.qq.com/mp/advertisement
+||mp.weixin.qq.com/mp/getappmsgad
+||mp.weixin.qq.com/mp/ad_monitor
+||mp.weixin.qq.com/mp/ad_biz_info
 
 !27、-------------------Huawei-----------------------
 
